@@ -1,0 +1,7 @@
+.env
+.idea
+__pycache__
+*.pyc
+**/__pycache__
+backend/settings.py
+settings.py
